@@ -1,0 +1,125 @@
+body{
+    background-image:url("../img/bg2.jpg");
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin:0;
+    padding:0;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.user	{
+	
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	background-image: url("../img/Juste.jpg");
+	background-size: cover;
+	position: relative;
+	border-radius: 15px;
+	opacity: 0.5;
+	left: 50px;
+	top: 50px;
+	
+}
+
+
+
+h1 {
+	
+	font-family: 'Spectral SC', serif;
+	font-size: 42px;
+	font-stretch: ultra-expanded;
+	
+}
+
+
+.allprojects	{
+	
+margin: 0 auto;
+width: 1200px; 
+align-items: center;
+justify-content: center;
+font-family: 'Spectral SC', serif;
+text-align: center;
+display: block;
+position: relative;
+
+  
+}
+
+table	{
+	
+margin: 0 auto;
+text-align: center;
+width: 80%;
+font-weight:bolder;
+line-height: 200%;
+border-collapse:collapse;
+	
+}
+
+.theder {
+	
+	
+			font-weight:bolder;
+		font-size: 24px;
+		font-family: 'Spectral SC', serif;
+		line-height: 250%;
+		}
+		
+
+
+.description	{
+	
+	width: 30%;
+	font-weight:bolder;
+	font-size: 24px;
+	font-family: 'Spectral SC', serif;
+
+	
+}
+
+
+
+td:nth-child(1) {
+
+font-family: 'Zilla Slab Highlight', cursive;
+font-size: 28px;
+font-weight: boldest;
+line-height: 250%;
+text-align: left;
+
+}
+
+td:nth-child(2) {
+
+font-family: 'Spectral SC', serif;
+font-size: 14px;
+line-height: 150%;
+padding-right: 6px;
+padding-left: 10px;
+text-align: left;
+
+}
+
+
+.theder {
+  border-bottom: 5px solid black;
+
+}
+
+.buttons	{
+	
+	width: 10%;	
+	display: flex;
+	flex-direction:column;
+	
+}
+
+
+
+
+
+
